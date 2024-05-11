@@ -2,12 +2,12 @@
   text-shadow: 0 0 20px #4ec9b0;
 } */
 
-div.titlebar {
+/* div.titlebar {
   background-image: url("/Users/yuelin_xin/Downloads/uci.png") !important;
   background-size: 25px 25px !important;
   background-position: 70px 5px !important;
   background-repeat: no-repeat !important;
-}
+} */
 
 div.quick-input-widget {
   --vscode-quickInput-background: transparent !important;
